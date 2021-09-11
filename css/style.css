@@ -395,7 +395,7 @@ left: 150px;
     display: flex;
     justify-content: center;
     position: relative;
-    top: 500px;
+    bottom: 380px;
     width: 60%;
     height: 2px;
 }
@@ -426,7 +426,7 @@ left: 150px;
     background-size: cover;
     background-position: center;
     position: relative;
-    left: 220px;
+    left: 260px;
     height: 90vh;
     width: 600px;
 }
