@@ -309,17 +309,19 @@ left: 150px;
     top: 100px;  
 }
 
+
 .w5{
     display: flex;
     justify-content: center;
-    padding: 0px;
+    padding: 4.5rem;
     background-color: white;
     padding: 0px 100px 50px 100px;
+    width: 100%;
 }
 
 .i6{
-    width: 100px;
-    height: 20vh;
+    flex-grow: 1;
+    height: 300px;
     box-sizing: border-box;
     border-radius: 10px 10px 10px 10px;
     position: relative;
@@ -328,19 +330,18 @@ left: 150px;
 }
 
 .i7{
-    width: 100px;
-    height: 20vh;
+    height: 300px;
     box-sizing: border-box;
     border-radius: 10px 10px 10px 10px;
     position: relative;
-    top: 15px;
-    left: 180px;  
+    bottom: 170px;
+    left: 260px;  
 }
 
 .s1{
     position: relative;
-    left: 200px;
-    top: 100px;
+    left: 300px;
+    top: 170px;
     font-style: normal;
     color:black;
     font-weight: 100;
@@ -351,15 +352,15 @@ left: 150px;
 
 .s2{
     position: relative;
-    right: 300px;
-    top: 150px;
+    right: 200px;
+    top: 230px;
     color: solid black;
 }
 
 .s3{
     position: relative;
-    right: 360px;
-    top: 200px;
+    right: 255px;
+    top: 270px;
     font-size: 1.2rem;
     font-style: normal;
     width: 450px;
@@ -375,13 +376,11 @@ left: 150px;
     border: unset;
     border-radius: 20px ;
     position: relative;
-    top: 300px;
-    right: 810px;
+    top: 370px;
+    right: 705px;
     text-align: justify;
     background-color: black;
 }
-
-
 .part2{
     display: flex;
     justify-content: center;
