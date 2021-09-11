@@ -395,7 +395,7 @@ left: 150px;
     display: flex;
     justify-content: center;
     position: relative;
-    bottom: 380px;
+    top: 200px;
     width: 60%;
     height: 2px;
 }
